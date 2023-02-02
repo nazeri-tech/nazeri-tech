@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on [Rave of Arts](https://rave-of-arts.de/)
 
+- ⛳️ This year I want to work more on Open Source projects, if you would need my expertice, then hit me up! 🙌🏽
+
 - 🌱 I’m currently learning **advanced Nest.js and Rust. 🌐⚙️**
 
 - 💬 Ask me about **Vue, Nuxt, Vite, Node, Express, Nest and TS. 🤓**
